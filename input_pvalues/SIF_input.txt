@@ -1,0 +1,11 @@
+filepath	method	gene_col	p_col	tissue	target	data_type
+input_pvalues/Carcinoma_tumors.gc19_pc.cds.ncDriverCombined.observed.p	ncDriver_combined	id.element	combined.p	meta_Carcinoma	CDS	observed
+input_pvalues/Carcinoma_tumors.gc19_pc.cds.ActiveDriver2-burden.observed.txt	ActiveDriverWGS	id	raw_p	meta_Carcinoma	CDS	observed
+input_pvalues/Carcinoma_tumors.CDS.DriverPower.observed.txt	DriverPower	element_ID	p-value	meta_Carcinoma	CDS	observed
+input_pvalues/Carcinoma_tumors.CDS.ExInAtor.observed.txt	ExInAtor	element_ID	p-value	meta_Carcinoma	CDS	observed
+input_pvalues/Carcinoma.CDS.MutSig.maf.txt	MutSig	gene	p	meta_Carcinoma	CDS	observed
+input_pvalues/Carcinoma_tumors.CDS.dNdScv.observed.txt	dNdScv	element_ID	p-value	meta_Carcinoma	CDS	observed
+input_pvalues/meta_cohort_Carcinoma_tumors.CDS.ncdDetect.observed.txt	ncdDetect	element_ID	p_value	meta_Carcinoma	CDS	observed
+input_pvalues/Carcinoma.CDS.oncodriveFML_cadd.observed.txt	oncodriveFML_cadd	element_ID	p-value	meta_Carcinoma	CDS	observed
+input_pvalues/Carcinoma.CDS.oncodriveFML_vest3.observed.txt	oncodriveFML_vest3	element_ID	p-value	meta_Carcinoma	CDS	observed
+input_pvalues/Carcinoma_tumors.CDS.NBR_Sanger.txt	NBR	element_ID	p-value	meta_Carcinoma	CDS	observed
