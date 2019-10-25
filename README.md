@@ -8,7 +8,7 @@ The outputs contain a p values QQ plot, a table with combined p values, a report
 
 Steps:
 
-1. Copy ebm.R from https://github.com/IlyaLab/CombiningDependentPvaluesUsingEBM
+1. Copy ebm.R from https://github.com/IlyaLab/CombiningDependentPvaluesUsingEBM into pvalue_combination/
 
 2. Unarchive input_pvalues/PCAWG_meta_Carcinoma_cds_pvalues.zip
 
