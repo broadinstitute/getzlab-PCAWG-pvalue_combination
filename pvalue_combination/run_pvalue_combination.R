@@ -5,9 +5,9 @@ args=commandArgs(TRUE)
 
 # Source the ebm.R package from the following github repo: https://github.com/IlyaLab/CombiningDependentPvaluesUsingEBM
 
-source("ebm.R")
+source("pvalue_combination/ebm.R")
 
-source("combine_p_values.library.R")
+source("pvalue_combination/combine_p_values.library.R")
 library("reshape")
 
 

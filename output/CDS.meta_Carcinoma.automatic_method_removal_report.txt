@@ -1,0 +1,11 @@
+sig_gene_counts	median_sig	c	upper_thresh	removed_for_inflation
+ncDriver_combined	30	50.5	4	202	0
+ActiveDriverWGS	48	50.5	4	202	0
+DriverPower	62	50.5	4	202	0
+ExInAtor	38	50.5	4	202	0
+MutSig	90	50.5	4	202	0
+dNdScv	79	50.5	4	202	0
+ncdDetect	11	50.5	4	202	0
+oncodriveFML_cadd	54	50.5	4	202	0
+oncodriveFML_vest3	53	50.5	4	202	0
+NBR	48	50.5	4	202	0
