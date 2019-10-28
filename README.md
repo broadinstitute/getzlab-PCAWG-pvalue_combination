@@ -24,8 +24,8 @@ The outputs will be saved under output/
 
 Some explanations for columns in .automatic_method_removal_report.txt:
 
-median_sig:
+-median_sig:
 
-upper_thresh:
+-upper_thresh:
 
-removed_for_inflation:
+-removed_for_inflation:
