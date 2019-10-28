@@ -5,6 +5,8 @@ Note: we are using parts of the original code for Empirical Brown's method (Pool
 
 The version of R is 3.4.
 
+Please install the following package before running the command: reshape
+
 The inputs to the R script are: tissue, target, dir, sif_filepath.
 The outputs contain a p values QQ plot, a table with combined p values, a report with methods to be removed and an integrated table of combined p values after removing some outlier methods.
 
