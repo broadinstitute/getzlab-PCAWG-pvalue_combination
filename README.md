@@ -23,6 +23,9 @@ Rscript pvalue_combination/run_pvalue_combination_comparison_automatic_removal.R
 The outputs will be saved under output/ 
 
 Some explanations for columns in .automatic_method_removal_report.txt:
+
 median_sig:
+
 upper_thresh:
+
 removed_for_inflation:
