@@ -1,3 +1,4 @@
+#Autors: Grace Tiao, Ziao Lin
 #R library for p-value integration
 
 #Merge tables from a list of tables
