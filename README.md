@@ -23,7 +23,11 @@ All results are saved under output/
 Columns in .automatic_method_removal_report.txt:
 
 sig_gene_counts: number of significant genes (q<0.1) called by the respective method
+
 median_sig: median number of significant genes across all methods
+
 upper_thresh: upper threshold (gene count) to call a method inflated
+
 removed_for_inflation: 0 not removed, 1 removed for inflation
+
 
