@@ -1,3 +1,4 @@
+# Authors: Grace Tiao, Ziao Lin
 # Integration of p-values
 
 # Load libraries and arguments
